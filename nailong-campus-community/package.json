@@ -1,0 +1,24 @@
+{
+  "name": "nailong-campus-community",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "dev": "node server/index.js --dev",
+    "api": "node server/index.js",
+    "start": "node server/index.js",
+    "build": "vite build",
+    "preview": "node server/index.js --preview"
+  },
+  "dependencies": {
+    "three": "^0.180.0",
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "vite": "^7.0.0"
+  }
+}

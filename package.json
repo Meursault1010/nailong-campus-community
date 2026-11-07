@@ -1,0 +1,19 @@
+{
+  "name": "nailong-campus-community-deployment",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "workspaces": [
+    "nailong-campus-community"
+  ],
+  "scripts": {
+    "build": "npm --workspace nailong-campus-community run build",
+    "start": "npm --workspace nailong-campus-community start"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  }
+}

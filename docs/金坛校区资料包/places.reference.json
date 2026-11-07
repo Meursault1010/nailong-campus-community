@@ -1,0 +1,363 @@
+[
+  {
+    "id": "library",
+    "name": "图书馆",
+    "mapIds": [
+      "01"
+    ],
+    "sources": [
+      "S04",
+      "S10",
+      "S14"
+    ],
+    "image": "library-real",
+    "extra": "library-interior",
+    "facts": "官方规划页位于校园核心区，地上7层、地下1层。规划建筑面积约4.04万平方米，高约33.95米。",
+    "visual": "实景可见圆角体块、连续水平立面与首层斜撑；室内图呈现阶梯式阅读空间。",
+    "usage": "优先地标；地点卡片可介绍阅读空间。室内是否开放、可进入区域与规则需另核。",
+    "model": "圆角主体＋水平条带＋底部斜撑；首版不做室内。",
+    "priority": "P0",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "阅读",
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "teaching",
+    "name": "公共教学楼",
+    "mapIds": [
+      "02"
+    ],
+    "sources": [
+      "S05",
+      "S10",
+      "S14"
+    ],
+    "image": "teaching-real",
+    "extra": "teaching-plan",
+    "facts": "官方规划为环绕图书馆北侧、西侧的L形组团；约7.7万平方米，高约23.70米，5层、局部4层。",
+    "visual": "实景显示浅色教学建筑与院落；效果图展示连廊和开放平台。",
+    "usage": "适合作为课后出发区域；未确认具体教学楼门牌、下课入口或空教室开放状态。",
+    "model": "先做L形总体关系，再简化中庭、连廊和层高节奏。",
+    "priority": "P0",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "student-service",
+    "name": "学生服务中心",
+    "mapIds": [
+      "03"
+    ],
+    "sources": [
+      "S08",
+      "S14"
+    ],
+    "image": "activity-plan",
+    "facts": "学生地图将03标作学生服务中心；官方规划页将核心区三栋水滴形建筑统称学生活动中心。两者命名不直接等同。",
+    "visual": "以三栋水滴形建筑群作设计参考；本条没有独立实景照片。",
+    "usage": "外部探索候选；具体功能、出入口和开放情况待核。",
+    "model": "与音乐厅、剧场作为一个组团建模，待核实名称与体块对应。",
+    "priority": "P0",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "music",
+    "name": "音乐厅",
+    "mapIds": [
+      "04"
+    ],
+    "sources": [
+      "S08",
+      "S14"
+    ],
+    "image": "activity-plan",
+    "facts": "音乐厅名称来自学生地图；官方规划描述三栋水滴形建筑、二层连接平台，约26米高、3层。该数值属于组团设计说明。",
+    "visual": "规划图可见斜向立面构件及水滴形轮廓；不能据此确认当前全部建成细节。",
+    "usage": "建筑观赏与外部拍照候选；不默认有演出或允许进入。",
+    "model": "水滴形平面、斜向立面与公共平台优先。",
+    "priority": "P0",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "theatre",
+    "name": "剧场",
+    "mapIds": [
+      "05"
+    ],
+    "sources": [
+      "S08",
+      "S14"
+    ],
+    "image": "activity-plan",
+    "facts": "学生地图05标作剧场，属于需继续交叉核对的具体地标名称。",
+    "visual": "参考同组团设计图；缺少独立正面和背面实景。",
+    "usage": "先作为组团标记；无活动信息时只做外部建筑介绍。",
+    "model": "不凭单张效果图猜完整背面；与其他水滴建筑共享简化语言。",
+    "priority": "P1",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "sports-field",
+    "name": "体育场",
+    "mapIds": [
+      "10"
+    ],
+    "sources": [
+      "S06",
+      "S10",
+      "S14"
+    ],
+    "image": "gym-real",
+    "facts": "官方规划体育组团位于西南角，含体育场、体育馆和游泳馆；体育场规划面积约1.3万平方米。",
+    "visual": "下载实景可见蓝色跑道、草坪和看台。原图集该图标题为“体育馆”，与可见场地对象不同，保留这一标注差异。",
+    "usage": "运动和散步候选；入场、使用时段与临时封闭仍待核。",
+    "model": "椭圆跑道、草坪、看台与顶棚剪影。",
+    "priority": "P0",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "gym",
+    "name": "体育馆",
+    "mapIds": [
+      "08"
+    ],
+    "sources": [
+      "S06",
+      "S10",
+      "S14"
+    ],
+    "image": "sports-cluster-real",
+    "extra": "sports-plan",
+    "facts": "官方规划体育馆面积约1.3万平方米；地图与游泳馆、体育场分开标注。",
+    "visual": "组团实景展示弧线屋面及连续立面；尚未逐一确认组团照片中的建筑对应。",
+    "usage": "建筑外部观赏候选；室内活动、预约和收费不预填。",
+    "model": "先做屋面和总体体块，细部不逐根刻画。",
+    "priority": "P1",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "pool",
+    "name": "游泳馆",
+    "mapIds": [
+      "09"
+    ],
+    "sources": [
+      "S06",
+      "S10",
+      "S14"
+    ],
+    "image": "pool-real",
+    "facts": "官方规划游泳馆面积约1.1万平方米；官方图集提供室内泳池照片。",
+    "visual": "室内图可用于卡片；外部沙盘应结合组团图核对体块。",
+    "usage": "不默认可以随时游泳；开放、预约、费用与资格需核对。",
+    "model": "室外体块即可，不制作泳池室内。",
+    "priority": "P1",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "gate",
+    "name": "正大门 / 南门候选",
+    "mapIds": [
+      "南门1号门"
+    ],
+    "sources": [
+      "S10",
+      "S14"
+    ],
+    "image": "gate-real",
+    "facts": "官方图集提供“正大门”照片；学生地图南侧标注南门（1号门）。本次未独立验证二者是同一入口。",
+    "visual": "实景可见校园入口、环形景观和中心轴线。",
+    "usage": "适合作为建模地标；确认门号后再作为正式路线起点。",
+    "model": "门柱、环形景观、入口轴线；不把门外道路纳入校园推荐。",
+    "priority": "P0",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "living",
+    "name": "宿舍与食堂生活组团",
+    "mapIds": [
+      "11–18",
+      "19",
+      "36–41",
+      "42",
+      "45–53",
+      "54"
+    ],
+    "sources": [
+      "S07",
+      "S14"
+    ],
+    "image": "living-plan",
+    "facts": "规划将生活组团布置在东、西及东北侧；学生地图区分一、二、三食堂和宿舍编号。具体编号使用前需实地确认。",
+    "visual": "现有下载图为规划效果，不代表每栋食堂和宿舍现状。",
+    "usage": "可作为出发区域，但宿舍内部不进入游览推荐。食堂营业时间不预填。",
+    "model": "用重复体块表示组团，少量重点外立面。",
+    "priority": "P1",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "admin",
+    "name": "行政楼",
+    "mapIds": [
+      "06"
+    ],
+    "sources": [
+      "S14"
+    ],
+    "image": "aerial-real",
+    "facts": "名称及编号来自学生地图，目前缺少本包内独立建筑详图与尺寸。",
+    "visual": "配图为校园整体航拍，非行政楼单体特写。",
+    "usage": "以地图背景地标为主，不作为室内游览点。",
+    "model": "位置与轮廓核对后采用低细节体块。",
+    "priority": "P2",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  },
+  {
+    "id": "exhibition",
+    "name": "展览馆",
+    "mapIds": [
+      "07"
+    ],
+    "sources": [
+      "S03",
+      "S14"
+    ],
+    "image": "aerial-plan",
+    "facts": "官方总体规划列有展览馆功能，学生地图标出07；当前展览、开放时间及入口未核实。",
+    "visual": "配图为整体鸟瞰效果，不是单体实景。",
+    "usage": "仅列作候选；开放信息未核实前不生成参观承诺。",
+    "model": "先核对轮廓与方位，不猜测内部展陈。",
+    "priority": "P2",
+    "campus": "河海大学金坛校区（常州新校区）",
+    "scenePosition": null,
+    "latitude": null,
+    "longitude": null,
+    "openingHours": null,
+    "walkMinutes": null,
+    "routeReady": false,
+    "verifiedAt": "2026-11-04",
+    "status": "存在/规划资料与地图参考已整理；导航与运营待核",
+    "interestTagsSuggested": [
+      "建筑观赏"
+    ]
+  }
+]
